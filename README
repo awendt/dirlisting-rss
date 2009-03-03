@@ -1,0 +1,14 @@
+dirlisting-rss generates an RSS feed of your directory listing. It is written in PHP.
+
+USE CASE:
+
+I wanted to share photo galleries as static HTML.
+There's one gallery per directory.
+Friends and family should be able to be notified whenever I upload a new gallery.
+
+HOWTO USE:
+
+* Change domain names and filenames as necessary
+* Upload feed.php and .htaccess to your website
+* Start creating directories on the server
+* Go to http://www.yourdomain.com/feed to get the RSS feed

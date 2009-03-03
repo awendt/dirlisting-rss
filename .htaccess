@@ -1,0 +1,7 @@
+# This is a sample .htaccess file
+
+Options +Indexes
+IndexIgnore feed.php
+
+RewriteEngine on
+RewriteRule ^feed$ http://www.example.com/feed.php
